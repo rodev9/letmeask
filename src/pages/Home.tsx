@@ -33,7 +33,11 @@ export function Home() {
     const room = await database.ref(`rooms/${roomCode}`).get()
 
     if (!room.exists()) {
-      return alert('Room does not exists.')
+      return alert('Não existe nenhuma sala com este código')
+    }
+
+    if (room.val().closedAt) {
+      return alert('Esta sala foi fechada')
     }
 
     history.push(`/rooms/${roomCode}`)
