@@ -33,7 +33,7 @@ Este é um projeto desenvolvido na trilha *React* **[Next Level Week Together](h
 Clona o projeto e acessa a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/romilodev/letmeask
+$ git clone https://github.com/rodev9/letmeask
 $ cd letmeask
 ```
 
