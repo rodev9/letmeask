@@ -54,11 +54,11 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 Podes visualizar o layout do projeto através do link abaixo:
 
-- [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate)
+- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask)
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Vê o ficheiro [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está sob a licença MIT. Vê o ficheiro [LICENSE](LICENSE.MD) para mais detalhes.
 
 ---
-Feito com 🧡 by Romilo na [NLW Together](https://nextlevelweek.com/)
+Feito com 🧡 by Rodrigo na [NLW Together](https://nextlevelweek.com/)
